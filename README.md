@@ -1,4 +1,4 @@
-=# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
+# Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -27,9 +27,10 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Program:
 Program to implement the simple linear regression model for predicting the marks scored.
 
-Developed by: Naveen kumar.R
+Developed by: DEVESH S
 
-RegisterNumber: 212223230139```
+RegisterNumber: 212223230041
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
